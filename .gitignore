@@ -1,0 +1,5 @@
+# Evite versionar dados sensíveis e arquivos gerados em tempo de execução
+/data/encodings.pkl
+/data/known_faces/
+/data/inference_log.txt
+/data/secret.key
