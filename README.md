@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reconhecimento Facial Otimizado
 
 Este projeto é uma aplicação de reconhecimento facial em tempo real, desenvolvida em Python, utilizando OpenCV, dlib e face_recognition. O objetivo é fornecer uma solução de Prova de Conceito (PoC) para identificação de pessoas a partir de imagens de vídeo, com foco em privacidade e segurança dos dados biométricos.
@@ -80,3 +81,7 @@ Este projeto é uma aplicação de reconhecimento facial em tempo real, desenvol
 
 ## Licença
 Este projeto é fornecido como PoC e não deve ser usado em produção sem revisão de segurança e conformidade.
+=======
+# Reconhecimento-Facial
+Projeto Proof of Concept de reconhecimento facial
+>>>>>>> a3196a589192b14beb0f2206581e224325fc6d0e
